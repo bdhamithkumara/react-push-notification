@@ -20,11 +20,11 @@ In-app notification system, as well as web native Notification support.
 ### Install
 
 ```bash
-yarn add @bdk/react-push-notification
+yarn add @bdhamithkumara/react-push-notification
 ```
 or 
 ```bash
-npm i @bdk/react-push-notification
+npm i @bdhamithkumara/react-push-notification
 ```
 
 ### Sneakpeak
