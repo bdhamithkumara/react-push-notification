@@ -169,6 +169,7 @@ The custom background or font colors will always override a chosen theme.
 
 ### Changelog
 
-v1.3.0
+v1.5.6
 
-Added native OS push notification support, as well as an `onClick` callback function.
+  - Updated package react ^16.9.21 to version ^18.0.15 for improved performance.
+  - Updated package typescript ^3.9.10  to version ^4.7.4 for improved performance.
