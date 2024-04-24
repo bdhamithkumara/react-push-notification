@@ -5,6 +5,9 @@
 
 # react-push-notification
 
+
+> This is a fork of https://github.com/fabioshub/react-push-notification
+
 Easy, type-safe, & lightweight push notification library for React.js.
 Written in TypeScript & compiled to JavaScript for robust code.
 
@@ -17,11 +20,11 @@ In-app notification system, as well as web native Notification support.
 ### Install
 
 ```bash
-yarn add react-push-notification
+yarn add @bdhamithkumara/react-push-notification
 ```
 or 
 ```bash
-npm i react-push-notification
+npm i @bdhamithkumara/react-push-notification
 ```
 
 ### Sneakpeak
