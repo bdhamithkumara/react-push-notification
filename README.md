@@ -1,5 +1,5 @@
 
-[![npm version](https://badgen.net/npm/v/react-push-notification)](https://www.npmjs.com/package/react-push-notification)
+[![npm version](https://badgen.net/npm/v/@bdhamithkumara/react-push-notification)](https://www.npmjs.com/package/@bdhamithkumara/react-push-notification)
 
 --- 
 
@@ -40,7 +40,8 @@ Mac OSX example:
 ![](https://i.imgur.com/IKppymi.gif)
 ![](https://imgur.com/HwA1Bf5.png)
 
-
+> [!NOTE]  
+> If you are using Next.js 13 or above version, add the "use client" directive at the beginning of a file before your imports.
 
 ### Set-up
 
@@ -49,7 +50,7 @@ This is probably `index.js` or `app.js`. When using `native: true`, this step is
 
 
 ```jsx
-import { Notifications } from 'react-push-notification';
+import { Notifications } from '@bdhamithkumara/react-push-notification';
 
 const App = () => {
     return (
@@ -74,7 +75,7 @@ export default App;
 import the `addNotification` function and call it.
 
 ```jsx
-import addNotification from 'react-push-notification';
+import addNotification from '@bdhamithkumara/react-push-notification';
 
 const Page = () => {
 
