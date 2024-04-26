@@ -8,6 +8,9 @@
 
 > This is a fork of https://github.com/fabioshub/react-push-notification
 
+[Live Demo NextJs 14+](https://react-push-notification-nextjs.vercel.app/)
+[Live Demo ReactJs 18+](https://react-push-notification-reactjs.vercel.app/)
+
 Easy, type-safe, & lightweight push notification library for React.js.
 Written in TypeScript & compiled to JavaScript for robust code.
 
